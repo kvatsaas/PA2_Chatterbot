@@ -5,4 +5,8 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\..\..\..\..\Downloads\Weighted-Item-Randomizer-for-C-Sharp-master\Weighted Randomizer\Weighted Randomizer.csproj" />
+  </ItemGroup>
+
 </Project>

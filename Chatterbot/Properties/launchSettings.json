@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Chatterbot": {
+      "commandName": "Project",
+      "commandLineArgs": "1 10 modest_proposal.txt",
+      "workingDirectory": "S:\\Documents\\School\\UMD\\Fall 2021\\CS 4242\\Labs and PAs\\Chatterbot\\Chatterbot"
+    }
+  }
+}
