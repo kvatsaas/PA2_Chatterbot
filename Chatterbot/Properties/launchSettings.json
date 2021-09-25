@@ -2,7 +2,7 @@
   "profiles": {
     "Chatterbot": {
       "commandName": "Project",
-      "commandLineArgs": "1 10 modest_proposal.txt",
+      "commandLineArgs": "3 10 beowulf.txt dorian_gray.txt dracula.txt frankenstein.txt great_expectations.txt great_gatsby.txt gullivers_travels.txt jekyll_hyde.txt les_miserables.txt moby_dick.txt modest_proposal.txt odyssey.txt pride_and_prejudice.txt sherlock_holmes.txt tale_of_two_cities.txt war_of_the_worlds.txt",
       "workingDirectory": "S:\\Documents\\School\\UMD\\Fall 2021\\CS 4242\\Labs and PAs\\Chatterbot\\Chatterbot"
     }
   }
