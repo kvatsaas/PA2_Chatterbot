@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\..\..\..\..\..\..\Downloads\Weighted-Item-Randomizer-for-C-Sharp-master\Weighted Randomizer\Weighted Randomizer.csproj" />
+    <ProjectReference Include="..\..\Weighted-Item-Randomizer-for-C-Sharp-master\Weighted Randomizer\Weighted Randomizer.csproj" />
   </ItemGroup>
 
 </Project>

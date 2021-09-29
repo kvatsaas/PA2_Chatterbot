@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31005.135
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chatterbot", "Chatterbot\Chatterbot.csproj", "{DF48C930-54AC-4E96-B928-26F3EB65AB7F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weighted Randomizer", "..\..\..\..\..\..\..\Downloads\Weighted-Item-Randomizer-for-C-Sharp-master\Weighted Randomizer\Weighted Randomizer.csproj", "{1245BC96-2F42-404C-9F11-65A4326299D6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weighted Randomizer", "..\Weighted-Item-Randomizer-for-C-Sharp-master\Weighted Randomizer\Weighted Randomizer.csproj", "{1245BC96-2F42-404C-9F11-65A4326299D6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

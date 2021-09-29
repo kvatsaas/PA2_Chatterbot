@@ -287,7 +287,7 @@ namespace Chatterbot
             Console.WriteLine("Total tokens: " + totalCount);
 
             // generate and print sentences, and final time results
-            Console.WriteLine("\n\nGenerating " + sentences + " sentences . . .\n");
+            Console.WriteLine("\n\nGenerating " + sentences + " sentences using " + n + "-grams . . .\n");
             lastTime = stopwatch.ElapsedMilliseconds;
             for (int i = 1; i <= sentences; i++)
                 Console.WriteLine(i + ". " + GenerateSentence(ngrams, n));
